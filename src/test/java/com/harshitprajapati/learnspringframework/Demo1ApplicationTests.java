@@ -1,4 +1,4 @@
-package com.harshitprajapati.demo;
+package com.harshitprajapati.learnspringframework;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

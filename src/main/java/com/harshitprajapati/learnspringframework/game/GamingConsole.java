@@ -1,4 +1,4 @@
-package com.harshitprajapati.demo;
+package com.harshitprajapati.learnspringframework.game;
 
 public interface GamingConsole {
 
