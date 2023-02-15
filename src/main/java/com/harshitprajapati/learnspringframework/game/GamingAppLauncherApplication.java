@@ -1,7 +1,5 @@
-package com.harshitprajapati.learnspringframework;
+package com.harshitprajapati.learnspringframework.game;
 
-import com.harshitprajapati.learnspringframework.game.GameRunner;
-import com.harshitprajapati.learnspringframework.game.GamingConsole;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
